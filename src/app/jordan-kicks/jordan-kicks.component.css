@@ -1,0 +1,8 @@
+.jordan{
+    border-style: ridge;
+    margin-left: 20px;
+}
+
+.col-xs-3:hover{
+    border-color: red;
+}

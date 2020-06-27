@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+
+.navbar-brand{font-family: 'Alex Brush', cursive; 
+    font-size: 50px;
+    color: darkslategray;
+}
+
+#A{
+    border: 2px solid blue;
+    color: blue;
+}
+
+#J{
+    border: 2px solid red;
+    color: red;
+}
+
+#N{
+    border: 2px solid black;
+    color: black;
+}
+
+#P{
+    border: 2px solid green;
+    color: green;
+}
+
+#A:hover{
+    border: 2px solid blue;
+    color: blue;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#J:hover{
+    border: 2px solid red;
+    color: red;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#N:hover{
+    border: 2px solid black;
+    color: black;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#P:hover{
+    border: 2px solid green;
+    color: green;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+

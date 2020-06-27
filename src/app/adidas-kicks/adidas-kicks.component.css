@@ -1,0 +1,13 @@
+.y-shoe-boxes{
+    width: 50px;
+    border-radius: 10px solid rgb(200, 175, 114);
+}
+
+.adidas{
+    border-style: ridge;
+    margin-left: 20px;
+}
+
+.col-xs-3:hover{
+    border-color: blue;
+}
